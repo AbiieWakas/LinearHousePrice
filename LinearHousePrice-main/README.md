@@ -1,3 +1,13 @@
+**Name:** S. ABIIE WAKAS
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT08DS6145
+
+**Domain:** MACHINE LEARNING
+
+**Duration:** AUG TO SEPT 2024
+
 # Linear Regression Machine Learning Project for House Price Prediction
 
 This project uses a linear regression model to predict house prices based on various features such as area income, house age, number of rooms, and population. The dataset contains information about 5000 houses in the USA.
@@ -46,6 +56,3 @@ To use this project, simply clone or download the repository, navigate to the pr
 
 # Results
 The linear regression model predicts house prices with reasonable accuracy, as shown by the regression evaluation metrics and visualizations.
-
-# License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
