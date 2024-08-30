@@ -58,3 +58,8 @@ To use this project, simply clone or download the repository, navigate to the pr
 
 # Results
 The linear regression model predicts house prices with reasonable accuracy, as shown by the regression evaluation metrics and visualizations.
+
+# Output
+![WhatsApp Image 2024-08-30 at 20 10 20_9ea14a38](https://github.com/user-attachments/assets/617b964b-22bf-4894-b26c-703994e95618)
+![WhatsApp Image 2024-08-30 at 20 10 32_8d5fe4b9](https://github.com/user-attachments/assets/29006eee-8e62-44a6-aa0a-ac0b4d505c0a)
+
