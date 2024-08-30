@@ -8,6 +8,8 @@
 
 **Duration:** AUG TO SEPT 2024
 
+**Mentor Name:** MUZAMMIL AHMED
+
 # Linear Regression Machine Learning Project for House Price Prediction
 
 This project uses a linear regression model to predict house prices based on various features such as area income, house age, number of rooms, and population. The dataset contains information about 5000 houses in the USA.
